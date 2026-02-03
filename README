@@ -1,0 +1,17 @@
+# AIML Drug Prediction System
+
+## Description
+ML project that predicts suitable drugs based on patient medical data.
+
+## Features
+- Data preprocessing
+- ML classification
+- Prediction scripts
+- Dashboard visualization
+
+## Tech Stack
+Python, Scikit-learn, Pandas, Streamlit
+
+## How to Run
+pip install -r requirements.txt
+python predict_sample.py
