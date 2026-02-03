@@ -1,0 +1,9 @@
+DRUG_NAME,SMILES,TARGET,DRUG_TYPE
+Erlotinib,COCCOC1=CC2=C(C=C1)C(=NC=N2)NC3=CC(=C(C=C3)Cl)O,EGFR,TKI
+Gefitinib,COCCOCCNC1=NC2=C(C=C(C=C2)Cl)C(=N1)NC3=CC(=C(C=C3)Cl)O,EGFR,TKI
+Vemurafenib,CC1=C(C(=NC(=N1)NC2=CC(=C(C=C2)Cl)Cl)C3=CC=C(C=C3)S(=O)(=O)C)C,BRAF,TKI
+Trametinib,CC1=C2C(C(=O)N(C2=NC(=N1)NC3=CC(=C(C=C3)Cl)Cl)C4=CC=C(C=C4)S(=O)(=O)C)(C)C,MEK,TKI
+Pembrolizumab,CC(=O)N1CCC[C@H]1C(=O)O,PD-1,Immunotherapy
+Cisplatin,Cl[Pt](Cl)(N)N,DNA,Chemotherapy
+Docetaxel,CC1=C2[C@@H]([C@H]([C@@H]([C@]2(C(=O)O1)C)O)OC(=O)[C@@H]3[C@H](C3(C)C)C(=O)O)C,Microtubules,Chemotherapy
+5-FU,C1=C(NC(=O)NC1=O)F,Thymidylate,Chemotherapy

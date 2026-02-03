@@ -173,7 +173,7 @@ class RealisticDataGenerator:
 
 
 def main():
-    generator = RealisticDataGenerator(n_samples=1500)
+    generator = RealisticDataGenerator(n_samples=5000)
     df = generator.generate_data()
     print("\n" + "="*60)
     print("✓ BIOLOGICALLY ACCURATE DATA GENERATION COMPLETE!")
